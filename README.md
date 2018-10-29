@@ -19,8 +19,9 @@ contact: knielbo@sdu.dk
 *Historical signals and GUI-based text analysis*, *introduction to the CLI*, *scripting*  
 
 
-**RESOURCES** [Article DOI](https://doi.org/10.1558/jch.31662),
+**RESOURCES** [Article](https://github.com/kln-courses/historical_informatics/raw/master/reading/mining_the_past.pdf),
 [Voyant Tools](https://voyant-tools.org/),
+[Voyant Documentation](http://docs.voyant-tools.org/),
 [Python](https://www.anaconda.com/download/)
 
 ## NOV06, Historical Informatics 3  
