@@ -22,13 +22,15 @@ contact: knielbo@sdu.dk
 **RESOURCES** [Article](https://github.com/kln-courses/historical_informatics/raw/master/reading/mining_the_past.pdf),
 [Voyant Tools](https://voyant-tools.org/),
 [Voyant Documentation](http://docs.voyant-tools.org/),
+[Voyant Introduction](https://www.youtube.com/channel/UCGsItkiu4HnejlXtD4zRgtw),
 [Python](https://www.anaconda.com/download/)
 
 ## NOV06, Historical Informatics 3  
 *Advanced search with gazetteers and dictionaries*, *The Programming Historian*
 
 **RESOURCES**
-[Programming Historian](https://programminghistorian.org/), [Tutorial](https://programminghistorian.org/en/lessons/extracting-keywords)
+[Programming Historian](https://programminghistorian.org/), [Tutorial](https://programminghistorian.org/en/lessons/extracting-keywords),
+[Voyant Introduction](https://www.youtube.com/channel/UCGsItkiu4HnejlXtD4zRgtw)
 
 
 ## NOV13, Historical Informatics 4  
