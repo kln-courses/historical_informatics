@@ -1,6 +1,6 @@
 # Metode 3, Porteføljeopgave 2 #
 
-Udleveres tirsdag d. 6-11 kl. 14 – skal afleveres i BB senest tirsdag d. 19-11 kl. 16
+Udleveres tirsdag d. 6-11 kl. 14 – skal afleveres i BB senest tirsdag d. 20-11 kl. 16
 
 Sideomfang: 4-8 normalsider (eksklusiv figurer og henvisninger).
 
